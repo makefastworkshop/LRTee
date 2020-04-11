@@ -1,9 +1,11 @@
-# LRTee
+# LRTee: Ventilator Splitter
 <img src="./Images/LRTee_onMachine.JPG" style='max-height:240px;'/><img src="./Images/LRTee3_PETG.jpg" style='max-height:240px;'/><img src="./Images/LRTee3_CrossSection.png" style='max-height:240px;'/>
 
 **LRTee is a 3D printed ventilator splitter** with standard 22mm tubing connectors to be used only in the event of Emergency Use Authorization when there is no more ventilator capacity.
 
 Unlike other splitters, LRTee is designed to print on a standard FFF/FDM 3D printer without the need for supports/rafts and is optimized for creating an air-tight part that can pass a ventilator system's automated leak test without the need for post processing.
+
+LRTee is released as public domain (Creative Commons Zero v1.0 Universal) for anyone to use, modify, share, produce, etc. with no strings attached.
 
 ## Background
 
@@ -30,12 +32,12 @@ If you intend to print LRTee splitters and supply them to local hospitals, we re
 
 * First, contact the hospital by phone where you intend to supply the parts and see if they are needed/wanted as a last resort.
 * Assume you are infected and act accordingly at all times (COVID-19 can be asymptomatic for some people, and protecting hospital staff is critically important). Wash hands and don't handle any more than necessary.
-* Use the highest quality PLA or PETG you have. Using pure/uncolored materials is best to limit the addition of other unspecified compounds in the plastic.
+* Use the highest quality PETG or PLA you have. Using pure/uncolored materials is best to limit the addition of other unspecified compounds in the plastic.
 * Make a test print. Depending on your printer's setup, you may need to tune settings to get the best print possible.
 * Print the associated parts as specified. Note that it takes two (2) splitters for each additional patient, so it's logical to print and supply them in pairs.
 * When the parts are finished, try to knock off any burrs, globs, or stringing that could interfere with their operation. You may also be able to gently fit the parts into each other and twist to get a sense for how smoothly the connectors fit.
 * Place in a sealable/zip-top plastic bag.
-* Print and fill out a form to help the hospital and make certain that you, as a maker trying to help, cannot be held liable (see [LRTee - Hospital Intake Printout.pdf](https://3dprint.nih.gov/sites/default/files/models/supplemental_documentation/LRTee%20-%20Hospital%20Intake%20Printout_0.pdf)).
+* Print and fill out a form to help the hospital and make certain that you, as a maker trying to help, cannot be held liable (see [LRTee - Hospital Intake Printout.pdf]([https://github.com/makefastworkshop/LRTee/blob/master/Docs/LRTee%20-%20Hospital%20Intake%20Printout.pdf](https://github.com/makefastworkshop/LRTee/blob/master/Docs/LRTee - Hospital Intake Printout.pdf))).
 * Place signed and dated form in the bag with the parts and seal.
 * Call ahead and schedule a drop off to appropriate medical personnel.
 
@@ -65,7 +67,7 @@ See the image above for a comparison of shrinkage characteristics along critical
 
 The general theory of using a splitter to ventilate multiple patients is nicely spelled out in [COVID-19 How to Use One Ventilator to Save Multiple Lives](https://www.youtube.com/watch?v=uClq978oohY) and [A Single Ventilator for Multiple Simulated Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009).
 
-Thanks to these projects for informing/sharing/catalyzing design and discussion to yield a usable printable splitter.
+Thanks to these projects for informing/sharing/catalyzing design and discussion to yield a usable, printable splitter.
 * [3D Printed Circuit Splitter and Flow Restriction Devices for Multiple Patient Lung Ventilation](https://www.prusaprinters.org/prints/25808-3d-printed-circuit-splitter-and-flow-restriction-d)
 * [Ventilator Circuit Splitters - reinforced & thicker walls](https://www.prusaprinters.org/prints/27803-ventilator-circuit-splitters-reinforced-thicker-wa)
 
