@@ -1,4 +1,4 @@
-# LRTee: Ventilator Splitter
+# LRTee: 3D Printed Ventilator Splitter
 <img src="./Images/LRTee_onMachine.JPG" style='max-height:240px;'/><img src="./Images/LRTee3_PETG.jpg" style='max-height:240px;'/><img src="./Images/LRTee3_CrossSection.png" style='max-height:240px;'/>
 
 **LRTee is a 3D printed ventilator splitter** with standard 22mm tubing connectors to be used only in the event of Emergency Use Authorization when there is no more ventilator capacity.
@@ -37,7 +37,7 @@ If you intend to print LRTee splitters and supply them to local hospitals, we re
 * Print the associated parts as specified. Note that it takes two (2) splitters for each additional patient, so it's logical to print and supply them in pairs.
 * When the parts are finished, try to knock off any burrs, globs, or stringing that could interfere with their operation. You may also be able to gently fit the parts into each other and twist to get a sense for how smoothly the connectors fit.
 * Place in a sealable/zip-top plastic bag.
-* Print and fill out a form to help the hospital and make certain that you, as a maker trying to help, cannot be held liable (see [LRTee - Hospital Intake Printout.pdf]([https://github.com/makefastworkshop/LRTee/blob/master/Docs/LRTee%20-%20Hospital%20Intake%20Printout.pdf](https://github.com/makefastworkshop/LRTee/blob/master/Docs/LRTee - Hospital Intake Printout.pdf))).
+* Print and fill out a form to help the hospital and make certain that you, as a maker trying to help, cannot be held liable (see [LRTee - Hospital Intake Printout.pdf](https://github.com/makefastworkshop/LRTee/blob/master/Docs/LRTee - Hospital Intake Printout.pdf)).
 * Place signed and dated form in the bag with the parts and seal.
 * Call ahead and schedule a drop off to appropriate medical personnel.
 
