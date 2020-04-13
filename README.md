@@ -43,6 +43,8 @@ If you intend to print LRTee splitters and supply them to local hospitals, we re
 
 ## Print Instructions
 
+<img src="./Images/LRTee_Annealing_PLA_PETG_Comparison.png" style='max-height:240px;'/><img src="./Images/2020-04-06 - 4 RedDot bubble test comparison.png" style='max-height:240px;'/>
+
 This part is designed to be printed in either PETG (recommended) or PLA. When sterilized, either of these materials are likely to be usable in last-resort circumstances.
 
 While the parts should print very cleanly, it's good to double check that all fittings are clean and free of extraneous globs of materials to ensure the best connection possible. 
